@@ -1,7 +1,6 @@
 # NYCitiBike_ETL
-ETL for Tableau Project
+ETL for Tableau Project that visualizes 2020 data from the NYCiti Bike program.
 
+[Visit my Tableau Public page](https://public.tableau.com/profile/scott.ricketts#!/)
 
-[link1](https://www.citibikenyc.com/system-data)
-
-[link2](https://s3.amazonaws.com/tripdata/index.html)
+[data source](https://s3.amazonaws.com/tripdata/index.html)
